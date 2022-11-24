@@ -298,15 +298,3 @@ END
 
 
 CALL Best_thrust();
-
-
-
-
-
-
-
-
-
-
-
-
