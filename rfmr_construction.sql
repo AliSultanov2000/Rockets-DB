@@ -22,17 +22,7 @@ SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ;
 -- We design the tables so that there is as little duplication of data in the rows as possible
 
 
--- ЧТО ОСТАЛОСЬ СДЕЛАТЬ:
--- 1) Добавить id-шник в Rockets для связи с other_rocket_param (добавить после id_test) + 
--- 2) Cделать проверку таблиц mass на соответсвие с массой полезного груза +
--- 3) Добавить комментарии к таблицам в Construction + 
--- 4) Сделать код-ревью аттрибутов к таблицам в Construction + 
--- 5) Cделать полное соответствие таблиц в Construction и Fill -  тогда можно считать, что Fill и Construction - ВСЁ:) + 
--- 6) Удалить все данные в DB. Заново внести в таблицы данные +
--- 7) Сделать ERD - диаграму + 
--- 8) Cоставить запросы к БД  
--- 9) Создать Python файл для подключения к БД
--- 10) Cделать файлик README к проекту
+
  
 
 # Main table: Data on all rocket launches are stored here
