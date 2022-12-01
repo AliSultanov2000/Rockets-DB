@@ -17,14 +17,6 @@ SET FOREIGN_KEY_CHECKS = 1;
 SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ;
 
 
-
--- Optimization criteria in the design:
--- We design the tables so that there is as little duplication of data in the rows as possible
-
-
-
- 
-
 # Main table: Data on all rocket launches are stored here
 
 DROP TABLE IF EXISTS Rockets;
