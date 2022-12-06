@@ -1,4 +1,4 @@
-The goal of this project is to create a database for civilian rockets.
+The goal of this project is to create a database for civilian rockets.  
 Within the framework of the project, it was carried out:  
 - Database design and creation  
 - Filling in the database of data for further analysis  
