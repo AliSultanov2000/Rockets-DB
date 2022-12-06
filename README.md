@@ -6,7 +6,7 @@ Within the framework of the project, it was carried out:
 - Drawing up an ERD to visualize the relationships between tables  
 - Creating a remote database connection via Python  
 
-The stack of technologies used: MySQL, Python. 
+The stack of technologies used: MySQL, Python, Git. 
 
 The database was designed in such a way that there was an effective decomposition of data and the tables were logically complete (separation by entities). To account for the logic of the task in the database, the columns of the tables have special attributes, and triggers have also been created. In order to reduce the query time to tables where there are many objects and to which queries often come, indexes were created
 
