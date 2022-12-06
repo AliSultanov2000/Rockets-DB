@@ -1,4 +1,5 @@
-The goal of this project is to create a database for civilian rockets.  
+The goal of this project is to create a database for civilian rockets, where will the data on space missions be stored, as well as the characteristics of civilian rockets.  
+
 Within the framework of the project, it was carried out:  
 - Database design and creation  
 - Filling in the database of data for further analysis  
@@ -12,7 +13,6 @@ The database was designed in such a way that there was an effective decompositio
 
 Limitations of the database:  
 - the database was created taking into account the fact that it will store single-stage and two-stage civilian rockets 
-
 
 Total number of tables in the database: 26
 
