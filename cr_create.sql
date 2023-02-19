@@ -15,8 +15,6 @@ SET FOREIGN_KEY_CHECKS = 1;
 SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ;
 
 
-
-
 # Main table: Data on all rocket launches are stored here
 
 DROP TABLE IF EXISTS Rockets;
